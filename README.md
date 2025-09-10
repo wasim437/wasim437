@@ -61,5 +61,5 @@
 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25xOWo4a2drM2k4eG5venQzNnRneGxjMDV5MzltcWFmYzNxdmpmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif" width="400" alt="game fun animation"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmt4aDA4YnVlNG9nMm4xdzlvYjA1dnl1bDZhM3pkZGVuajlnMjR5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A06UFEx8jxEwU/giphy.gif" width="400" alt="game fun animation"/>
 </p>
