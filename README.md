@@ -1,91 +1,67 @@
-<!-- ================= HEADER ================= -->
-<h1 align="center">
-  <img src="https://www.textgiraffe.com/imgs/logo/3d-hacker.png" alt="Mohamed Wasim" width="450"/>
-</h1>
-<h3 align="center">🚀 Data Scientist | AI/ML/GenAI Developer | Coffee-Powered Hacker ☕💻</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="400" alt="hacker animation"/>
-</p>
+<div align="center">
+  <img src="https://textgiraffe.com/imgs/logo/3d-hacker.png" alt="Mohamed Wasim" width="450"/>
+  <h3 align="center">🚀 Data Alchemist | AI/ML/GenAI Architect | Coffee-Fueled Cyber Wizard ☕💻</h3>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzM4OTU2MzFhYmE5ZDFkYmEzNjQyYjVkZmUyNjAxOWMxZGNkYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPnAiaMCWp9s53q/giphy.gif" alt="Hacker Animation" width="400"/>
+</div>
 
 ---
 
-## 📊 Hacker Dashboard
-| Metric | Value | Funny Note |
-|--------|-------|------------|
-| 💻 Lines of Code | 999,999+ | Half are bugs 🐛, half are features 🚀 |
-| 🔧 Commits | ∞ | Sleep is for the weak 😵‍💫 |
-| 🕵️‍♂️ StackOverflow Searches | ∞ | Ctrl+C + Ctrl+V Master 🤡 |
-| 🐞 Bug Fixes | 404 | Skill not found 😎 |
+## 📊 My Hacker Dashboard
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=wasim437&label=👀%20Stalkers&color=ff69b4&style=for-the-badge" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wasim437&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Mohamed Wasim's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasim437&layout=compact&theme=gotham&hide_border=true" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wasim437&theme=nord&no-bg=true" alt="GitHub Trophies"/>
+</div>
 
 ---
 
-## 🛠 Skills-o-Meter
-| Skill | Level | Fun Description |
-|-------|-------|----------------|
-| 🐍 Python | 💎💎💎💎💎 | Writes more lines than my fridge magnets ❄️ |
-| 🤖 Machine Learning | 💎💎💎💎 | Teaches computers to silently judge me 👀 |
-| 🧠 Deep Learning | 💎💎💎 | Melts GPUs faster than Chennai summer 🍦🔥 |
-| 📊 SQL | 💎💎💎 | SELECT * FROM life; — still NULL 😐 |
-| 🎭 Streamlit | 💎💎💎💎 | Turns boring data into hacker art ✨ |
-| 🐧 Linux | 💎💎💎💎💎 | sudo overlord & terminal ninja 🦸‍♂️ |
-| 🤯 AI Agents | 💎💎💎 | They now question their own existence 👽 |
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="350" alt="skills GIF"/>
-</p>
-
----
-
-## 🏆 Achievements Wall
-- 🥇 Survived 48-hour hackathons without coffee overdose ☕  
-- 🥈 Broke production once (maybe twice 😬)  
-- 🥉 Mastered “It works on my machine” 💻  
-- 💡 Built AI agents that roast me silently 🤖🔥  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xUOxfjsW1HhULq4WfG/giphy.gif" width="350" alt="achievements GIF"/>
-</p>
+## 🛠 My Tech Stack
+<div align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py,ml,pytorch,tensorflow,streamlit,docker,kubernetes,aws,gcp,azure,sql,bash,linux,git,vscode" alt="Tech Stack"/>
+  </a>
+</div>
 
 ---
 
 ## 🐍 Contributions Snake
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/wasim437/wasim437/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</div>
 
 ---
 
-## 😂 Daily Hacker Mood
-- 😎 40% Acting like a pro hacker  
-- 😵 30% Debugging nightmares  
-- 🤡 20% Copy-pasting Stack Overflow  
-- 🤔 10% Questioning life choices while drinking coffee ☕  
+## 🚀 Latest Adventures & Current Vibe
+
+- ✨ **Currently Brewing:** A new AI agent that writes its own documentation. Wish me luck!
+- 🤔 **Daily Question:** Is it a feature or a bug? (The eternal struggle)
+- ☕ **Fuel Status:** Running on 99.9% caffeine and 0.1% pure stubbornness.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="350" alt="funny hacker GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGI3MmIwZWVlYjRkZDNjZDM0Y2VmNDk0Mjc3NDgzZmM0MWM4OTY0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/oVjTR9C00q12c/giphy.gif" alt="Cool Coding GIF" width="350"/>
 </p>
 
 ---
 
-## 🌍 Visitors Counter
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=👀%20Stalkers&color=ff69b4&style=for-the-badge" />
-</p>
+## 🔗 Connect With Me
 
----
-
-## 🔗 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/mohamed-wasim-227171260">
-    <img src="https://img.shields.io/badge/LinkedIn-💼-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-💼-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/wasim437">
-    <img src="https://img.shields.io/badge/GitHub-🐱-black?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-🐱-black?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:wasimmisaw437@gmail.com">
-    <img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
-
-## ⚡ Fun Hacker Stats (ASCII Terminal Style)
