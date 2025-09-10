@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Data Scientist | AI/ML/GenAI Developer | Code Wizard & Coffee Addict ☕💻</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="400" alt="cool hacker animation"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5sZzhtMGszZ3pncGhqbDVpbDI4d3AycTV0cWx2eXozNGhuZnNpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qTD9EXZRgI1y0/giphy.gif" width="400" alt="cool hacker animation"/>
 </p>
 
 ---
