@@ -55,21 +55,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25xOWo4a2drM2k4eG5venQzNnRneGxjMDV5MzltcWFmYzNxdmpmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif" width="600" alt="fun waving animation"/>
-</p>
 
-> “I code like I breathe… messy, but it works.” 
+ “I code like I breathe… messy, but it works.” 
 
----
 
-### 🌟 Fun 3D/Game Vibes
-- Think of my GitHub as a **level-based RPG game** 🎮  
-- Each project = boss fight 🐉  
-- Each bug fixed = XP gained 💥  
-- Pull requests = loot boxes 🎁  
-- Contributions = epic wins 🏆  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="400" alt="game fun animation"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25xOWo4a2drM2k4eG5venQzNnRneGxjMDV5MzltcWFmYzNxdmpmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif" width="400" alt="game fun animation"/>
 </p>
