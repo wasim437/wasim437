@@ -1,5 +1,7 @@
 <!-- ================= HEADER ================= -->
-<h1 align="center">👋 Hey Recruiter, I'm Mohamed Wasim 😏</h1>
+<h1 align="center">
+  <img src="https://www.textgiraffe.com/imgs/logo/3d-hacker.png" alt="Mohamed Wasim" width="450"/>
+</h1>
 <h3 align="center">🚀 Data Scientist | AI/ML/GenAI Developer | Coffee-Powered Hacker ☕💻</h3>
 
 <p align="center">
@@ -21,13 +23,17 @@
 ## 🛠 Skills-o-Meter
 | Skill | Level | Fun Description |
 |-------|-------|----------------|
-| 🐍 Python | 💎💎💎💎💎 | “Writes more lines than my fridge magnets ❄️” |
-| 🤖 Machine Learning | 💎💎💎💎 | “Teaches computers to silently judge me 👀” |
-| 🧠 Deep Learning | 💎💎💎 | “Melts GPUs faster than Chennai summer 🍦🔥” |
-| 📊 SQL | 💎💎💎 | “SELECT * FROM life; — still NULL 😐” |
-| 🎭 Streamlit | 💎💎💎💎 | “Turns boring data into hacker art ✨” |
-| 🐧 Linux | 💎💎💎💎💎 | “sudo overlord & terminal ninja 🦸‍♂️” |
-| 🤯 AI Agents | 💎💎💎 | “They now question their own existence 👽” |
+| 🐍 Python | 💎💎💎💎💎 | Writes more lines than my fridge magnets ❄️ |
+| 🤖 Machine Learning | 💎💎💎💎 | Teaches computers to silently judge me 👀 |
+| 🧠 Deep Learning | 💎💎💎 | Melts GPUs faster than Chennai summer 🍦🔥 |
+| 📊 SQL | 💎💎💎 | SELECT * FROM life; — still NULL 😐 |
+| 🎭 Streamlit | 💎💎💎💎 | Turns boring data into hacker art ✨ |
+| 🐧 Linux | 💎💎💎💎💎 | sudo overlord & terminal ninja 🦸‍♂️ |
+| 🤯 AI Agents | 💎💎💎 | They now question their own existence 👽 |
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="350" alt="skills GIF"/>
+</p>
 
 ---
 
@@ -36,6 +42,10 @@
 - 🥈 Broke production once (maybe twice 😬)  
 - 🥉 Mastered “It works on my machine” 💻  
 - 💡 Built AI agents that roast me silently 🤖🔥  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUOxfjsW1HhULq4WfG/giphy.gif" width="350" alt="achievements GIF"/>
+</p>
 
 ---
 
