@@ -59,7 +59,7 @@
   <img src="https://media.giphy.com/media/l0HlQ7LRal1wGZVri/giphy.gif" width="600" alt="fun waving animation"/>
 </p>
 
-> “I code like I breathe… messy, but it works.” <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f60e.png" width="20" alt="sunglasses face">  
+> “I code like I breathe… messy, but it works.” <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2I0dTI0aHR0d3R0OGM1a2V2NXU4MDZhYzkwN3ZkanQ4dDBqZXFpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j2I9NsAyaroCGZ5on9/giphy.gif" width="20" alt="sunglasses face">  
 
 ---
 
