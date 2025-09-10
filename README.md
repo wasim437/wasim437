@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Mohamed Wasim
 
-<!--
-**wasim437/wasim437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I’m a Data Scientist passionate about AI, ML, and NLP.  
+💡 Love building AI agents, GenAI tools, and solving real-world problems.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Wasim's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasim437&show_icons=true&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=wasim437&theme=darkhub)
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/wasim437/wasim437/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 💻 Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasim437&layout=compact&theme=radical)
+
+---
+
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-wasim-227171260)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/wasim437)
+[![Portfolio](https://img.shields.io/badge/Portfolio-💻-blue)](#)
