@@ -3,7 +3,7 @@
 AI/ML Engineer 🤖 | GenAI Developer ✨ | Micro SaaS Creator 💻 | digital marketting 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="fun coding animation"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmMwd2Q3Y3k3anM1dGg3a3NzdTNncnlsbTVrcDFycGxrNXRjdjAwZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CAYVZA5NRb529kKQUc/giphy.gif" width="400" alt="fun coding animation"/>
 </p>
 
 ---
@@ -40,7 +40,7 @@ Python 🐍 | TensorFlow ⚡ | PyTorch 🔥 | HuggingFace 🐻 | Streamlit 🖥�
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="400" alt="fun project animation"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhnZWE3YWVwbXh6MjRsYWJmenRlbWdxM3l0M24wMTZxemJjN2pyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/IYojx4XGB2xqlQUhdw/giphy.gif" width="400" alt="fun project animation"/>
 </p>
 
 ---
