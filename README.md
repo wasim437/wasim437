@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Mohamed Wasim A
 
-AI/ML Engineer 🤖 | GenAI Developer ✨ | Micro SaaS Creator 💻 | Chaos Coordinator 💥
+AI/ML Engineer 🤖 | GenAI Developer ✨ | Micro SaaS Creator 💻 | digital marketting 
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="fun coding animation"/>
@@ -19,7 +19,7 @@ AI/ML Engineer 🤖 | GenAI Developer ✨ | Micro SaaS Creator 💻 | Chaos Coor
 ---
 
 ## 🛠️ My Playground
-Python 🐍 | TensorFlow ⚡ | PyTorch 🔥 | HuggingFace 🐻 | Streamlit 🖥️ | n8n ⚙️ | FAISS 🔍 | Micro SaaS 💻 | SEO 📈  
+Python 🐍 | TensorFlow ⚡ | PyTorch 🔥 | HuggingFace 🐻 | Streamlit 🖥️ | n8n ⚙️  | Micro SaaS 💻 | SEO 📈  
 
 ---
 
@@ -37,7 +37,7 @@ Python 🐍 | TensorFlow ⚡ | PyTorch 🔥 | HuggingFace 🐻 | Streamlit 🖥�
 - **YouTube Data Ninja** – Scraping with style 🥷  
 - **GenAI Video Maker** – Turn images into cinematic chaos 🎬  
 - **Interactive Dashboards** – Where charts feel like mini-games 🎮  
-- **Breast Cancer Predictor** – AI saving lives ❤️  
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="400" alt="fun project animation"/>
