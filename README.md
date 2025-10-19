@@ -21,6 +21,11 @@ AI/ML Engineer 🤖 | Generative AI Developer ✨ | Data Science Specialist 📊
 ## 🛠️ Toys I play with
 Python 🐍 | ML & DL frameworks ⚡ | n8n ⚙️ | AI Agents 🤖 | SaaS 💻 | SEO & Digital Marketing 📈 | Hugging Face 🐻 | FAISS 🔍 | Streamlit 🖥️  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="300" alt="3d ai play"/>
+  <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" width="300" alt="game coding fun"/>
+</p>
+
 ---
 
 ## 🎮 Fun Stats
@@ -28,19 +33,8 @@ Python 🐍 | ML & DL frameworks ⚡ | n8n ⚙️ | AI Agents 🤖 | SaaS 💻 |
   <img src="https://komarev.com/ghpvc/?username=wasim437&color=blue" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/wasim437?label=Followers&style=social" alt="github followers"/>
   <img src="https://img.shields.io/github/stars/wasim437?style=social" alt="github stars"/>
-</p>
-
----
-
-## 📂 Projects (Where the Magic Happens)
-- **Multimodal PDF Chatbot** – Text + Image AI Wizardry 📚🖼️  
-- **Google GenAI Video Maker** – From image → cinematic video 🎬  
-- **YouTube Data Harvesting** – Ninja-level scraping 🥷  
-- **Breast Cancer Predictor** – AI saves lives ❤️  
-- **Interactive Dashboards & 3D Mini-Games** – Because boring charts are forbidden 🎮  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400" alt="fun project animation"/>
+  <img src="https://img.shields.io/badge/Level-Up-9999-green?style=for-the-badge&logo=unity" alt="level up"/>
+  <img src="https://img.shields.io/badge/XP-∞-orange?style=for-the-badge&logo=gaming" alt="infinite xp"/>
 </p>
 
 ---
@@ -56,4 +50,8 @@ Python 🐍 | ML & DL frameworks ⚡ | n8n ⚙️ | AI Agents 🤖 | SaaS 💻 |
   <a href="https://linkedin.com/in/mohamed-wasim-227171260" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
   <a href="https://github.com/wasim437" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="github"/></a>
   <a href="mailto:wasimmisaw437@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Write-red?style=for-the-badge&logo=gmail" alt="email"/></a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUOwG6Lx6fklOPOa7C/giphy.gif" width="400" alt="fun interactive 3d project"/>
 </p>
