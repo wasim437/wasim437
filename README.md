@@ -3,7 +3,7 @@
 AI/ML Engineer 🤖 | GenAI Developer ✨ | Micro SaaS Creator 💻 | digital marketting 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmMwd2Q3Y3k3anM1dGg3a3NzdTNncnlsbTVrcDFycGxrNXRjdjAwZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CAYVZA5NRb529kKQUc/giphy.gif" width="400" alt="fun coding animation"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHQzNzFxMW15YTMyam84M2lreWE4a2NjdDAwbmN5N2huaHpveGZsZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif" width="400" alt="fun coding animation"/>
 </p>
 
 ---
